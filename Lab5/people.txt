@@ -1,0 +1,6 @@
+Jack|2|math:6,biology:7,physics:7
+John|3|math:8,biology:3,physics:9
+Mary|2|math:4,biology:5,physics:5
+Ann|1|math:10,biology:9,physics:8
+Sven|3|math:8,biology:6,physics:7
+Martin|3|math:3,biology:2,physics:3

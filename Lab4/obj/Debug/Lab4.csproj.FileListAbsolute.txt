@@ -1,0 +1,12 @@
+D:\univer\oop\OOP\Lab4\bin\Debug\Lab4.exe
+D:\univer\oop\OOP\Lab4\bin\Debug\Lab4.pdb
+D:\univer\oop\OOP\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\univer\oop\OOP\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\univer\oop\OOP\Lab4\obj\Debug\Lab4.exe
+D:\univer\oop\OOP\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Vasset\Desktop\OOP\Lab4\bin\Debug\Lab4.exe
+C:\Users\Vasset\Desktop\OOP\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Vasset\Desktop\OOP\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Vasset\Desktop\OOP\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Vasset\Desktop\OOP\Lab4\obj\Debug\Lab4.exe
+C:\Users\Vasset\Desktop\OOP\Lab4\obj\Debug\Lab4.pdb

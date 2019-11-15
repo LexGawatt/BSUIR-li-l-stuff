@@ -1,0 +1,13 @@
+D:\univer\oop\OOP\Lab6\bin\Debug\Lab6.exe
+D:\univer\oop\OOP\Lab6\bin\Debug\Lab6.pdb
+D:\univer\oop\OOP\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\univer\oop\OOP\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\univer\oop\OOP\Lab6\obj\Debug\Lab6.exe
+D:\univer\oop\OOP\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Vasset\Desktop\OOP\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Vasset\Desktop\OOP\Lab6\bin\Debug\Lab6.exe
+C:\Users\Vasset\Desktop\OOP\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Vasset\Desktop\OOP\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Vasset\Desktop\OOP\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Vasset\Desktop\OOP\Lab6\obj\Debug\Lab6.exe
+C:\Users\Vasset\Desktop\OOP\Lab6\obj\Debug\Lab6.pdb

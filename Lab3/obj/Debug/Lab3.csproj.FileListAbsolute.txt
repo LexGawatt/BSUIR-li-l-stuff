@@ -1,0 +1,12 @@
+D:\univer\oop\OOP\Lab3\bin\Debug\Lab3.exe
+D:\univer\oop\OOP\Lab3\bin\Debug\Lab3.pdb
+D:\univer\oop\OOP\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\univer\oop\OOP\Lab3\obj\Debug\Lab3.exe
+D:\univer\oop\OOP\Lab3\obj\Debug\Lab3.pdb
+D:\univer\oop\OOP\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Vasset\Desktop\OOP\Lab3\bin\Debug\Lab3.exe
+C:\Users\Vasset\Desktop\OOP\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Vasset\Desktop\OOP\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Vasset\Desktop\OOP\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Vasset\Desktop\OOP\Lab3\obj\Debug\Lab3.exe
+C:\Users\Vasset\Desktop\OOP\Lab3\obj\Debug\Lab3.pdb

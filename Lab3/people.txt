@@ -1,0 +1,6 @@
+enrollee|Jack|1990-2-5|math
+teacher|John|1989-6-15|physics|phd|10
+enrollee|Peter|1989-2-15|biology
+student|Meghna|1995-2-12|math|3
+teacher|Pol|1980-2-20|physics|phd|5
+student|James|1998-7-21|math|2
